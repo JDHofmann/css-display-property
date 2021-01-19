@@ -1,13 +1,26 @@
-.container {
 
+h1, h2 {
+    text-align: center;
+}
+
+.ex {
+    background: #000000;
+    color: #ffffff;
+    padding: 2px ;
+}
+
+.none {
+    display: none;
 }
 
 .block {
     display: block;
+    /* border: 2px solid #0000ff; */
 }
 
 .inline {
     display: inline;
+    /* border: 2px solid #ff0000; */
 }
 
 .inline-block {
