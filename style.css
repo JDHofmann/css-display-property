@@ -1,6 +1,16 @@
 
-h1, h2 {
+body {
+    width: 90vw;
+    margin: 2.5vh auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1, h2, .desc {
     text-align: center;
+}
+
+.desc {
+    font-size: 18px;
 }
 
 .ex {
