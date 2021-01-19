@@ -9,8 +9,20 @@ h1, h2, .desc {
     text-align: center;
 }
 
+h1 {
+    font-size: 4vmax;
+}
+
+h2 {
+    font-size: 3vmax;
+}
+
 .desc {
-    font-size: 18px;
+    font-size: 2.5vmax;
+}
+
+div {
+    font-size: 2vmax;
 }
 
 .ex {
